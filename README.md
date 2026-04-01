@@ -6,12 +6,6 @@ A reproduction of [Scott Bez's SmartKnob](https://github.com/scottbez1/smartknob
 
 ---
 
-## Demo
-
-> *(Add a GIF or photo of your build here)*
-
----
-
 ## Features
 
 - Configurable haptic detents via **Field-Oriented Control (FOC)**
