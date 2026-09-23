@@ -85,7 +85,6 @@ smartknob/
 └── README.md
 ```
 
-> *(Adjust paths to match your actual file structure)*
 
 ---
 
